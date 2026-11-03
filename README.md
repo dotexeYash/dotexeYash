@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dotexeYash/dotexeYash/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
