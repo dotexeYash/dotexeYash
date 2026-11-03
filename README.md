@@ -19,13 +19,19 @@
 
 ## 🛠️ Technologies & Tools
 
-### Technologies I've Used So Far
+### Used in Projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,ts" />
 </p>
 
-### Currently Exploring
+### Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### Planning to Explore
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,js,python" />
@@ -47,11 +53,11 @@ An environmental challenge platform encouraging sustainable actions.
 
 ### 🤖 KhataAI
 
-A project exploring AI-powered digital bookkeeping.
+A multilingual digital ledger project designed to simplify bookkeeping.
 
 ### 🔍 Log Analyzer
 
-A log analysis and incident detection project designed to identify system issues.
+A Java-based log analysis and incident detection application.
 
 ---
 
