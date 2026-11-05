@@ -6,10 +6,6 @@
   Learning, building and exploring the world of technology.
 </p>
 
-<p align="center">
-  <img src="./banner.gif" width="100%" alt="Neon Gaming Banner">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
