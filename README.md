@@ -6,6 +6,12 @@
   Learning, building and exploring the world of technology.
 </p>
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Yash's Anime Gaming Setup">
+</p>
+
+<br>
+
 ---
 
 ## 👨‍💻 About Me
