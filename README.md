@@ -16,10 +16,10 @@
 
 ##  About Me:
 
-* 🎓 Computer Science Engineering student at SRM AP.
-* 💻 Interested in software development and problem solving.
-* 🚀 Learning by building real-world projects.
-* 🌱 Always curious about exploring new technologies.
+*  Computer Science Engineering student at SRM AP.
+*  Interested in software development and problem solving.
+*  Learning by building real-world projects.
+*  Always curious about exploring new technologies.
 
 ---
 
@@ -53,15 +53,15 @@
 
 ##  Featured Projects:
 
-### 🌱 EcoQuest
+###  EcoQuest
 
 An environmental challenge platform encouraging sustainable actions.
 
-### 🤖 KhataAI
+###  KhataAI
 
 A multilingual digital ledger project designed to simplify bookkeeping.
 
-### 🔍 Log Analyzer
+###  Log Analyzer
 
 A Java-based log analysis and incident detection application.
 
