@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me:
 
 * 🎓 Computer Science Engineering student at SRM AP.
 * 💻 Interested in software development and problem solving.
@@ -23,27 +23,27 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools:
 
-### Used in Projects
+### Used in Projects:
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,ts" />
 </p>
 
-### Learning
+### Learning:
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-### Planning to Explore
+### Planning to Explore:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,js,python" />
 </p>
 
-### Tools & Platforms
+### Tools & Platforms:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects:
 
 ### 🌱 EcoQuest
 
